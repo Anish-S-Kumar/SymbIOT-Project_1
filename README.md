@@ -1,10 +1,7 @@
 # SymbIOT-Project_1
 
----
 
-# 🌟 Designed README Template (Advanced)
-
-```markdown
+``markdown
 <h1 align="center">🚀 SymbIOT Project</h1>
 <h3 align="center">An Intelligent IoT-Based Smart System</h3>
 
@@ -65,11 +62,11 @@ SymbIOT provides:
 ---
 
 ## ⚙️ System Architecture
-```
+``
 
 Sensors → Arduino → Processing Logic → Output (LED / Action)
 
-````
+``
 
 ---
 
@@ -140,5 +137,4 @@ If you like this project, give it a ⭐ and share it!
 
 ```
 
----
 
